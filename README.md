@@ -22,6 +22,8 @@ For details: [notebook](./LSTM.ipynb)
 
 Model weights: [link](./model_weights/LSTM_checkpoint.pth)
 
+Token Accuracy: `89.3705%` 
+
 # Specific Task 3: Use Transformer model
 Description: Please train a Transformer  model to learn the Taylor expansion of each function.
 
@@ -29,6 +31,7 @@ For details: [notebook](Transformer.ipynb)
 
 Model weights: [link](./model_weights/Transformer_checkpoint.pth)
 
+Token Accuracy: `95.01%`
 Final Sequence Accuracy: `63.33%`
 
 # Contact
