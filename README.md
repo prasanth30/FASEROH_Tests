@@ -11,7 +11,7 @@ Dataset Generated: [Link](./final_data_6519.csv)
 
 I have used algorithm provided in [Lample et. al, 2019](https://arxiv.org/abs/1912.01412) to generate expressions and calculated taylor expansion of the generated expressions.
 
-I have generated around 5000 samples.
+I have generated around 6500 samples.
 
 # Common Task 2. Use LSTM model
 
